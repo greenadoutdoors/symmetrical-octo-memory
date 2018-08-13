@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Equities Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Equities Data</description>
+<pubDate>Fri, 25 May 2018 20:30:47 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Equity:Swap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Fri, 25 May 2018 20:30:47 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-1760666824</guid>
+<description>
+"86437149","86437148","CANCEL","2018-05-25T20:09:19","U","FC","","N","N","OFF","2018-05-24","2019-05-29"," ACT/360","","EQ","","Equity:Swap:PriceReturnBasicPerformance:Basket","Trade","Bespoke Basket","","N/A","","","","USD","","2,000,000","","","","","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:Swap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Fri, 25 May 2018 20:30:47 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#96396524</guid>
+<description>
+"86437150","86437148","CORRECT","2018-05-25T20:09:20","U","FC","","N","N","OFF","2018-05-24","2019-05-29"," ACT/360","","EQ","","Equity:Swap:PriceReturnBasicPerformance:Basket","Trade","Bespoke Basket","","N/A","","","","USD","","2,000,000","","","","","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+</channel>
+</rss>
+

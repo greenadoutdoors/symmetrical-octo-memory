@@ -1,0 +1,22 @@
+itraxxx<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Credits Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Credits Data</description>
+<pubDate>Mon, 28 May 2018 06:13:37 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Credit:Index:iTraxx:iTraxxEurope</title>
+<pubDate>Mon, 28 May 2018 06:13:37 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss#1043120215</guid>
+<description>
+"86483609","86404307","CANCEL","2018-05-25T12:08:58","U","UC","N","N","N","","2018-03-20","2023-06-20"," ACT/360","","CR","","Credit:Index:iTraxx:iTraxxEurope","Trade","iTraxx Europe Senior Financials Series 29 Version 1:2I667DBT0","","BasisPoints","74","","","EUR","","10,000,000","","3M","","","","","","","","","","","","","","",""</description>
+</item>
+
+</channel>
+</rss>
+

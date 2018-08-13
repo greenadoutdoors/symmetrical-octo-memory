@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Commodoties Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Commodoties Data</description>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1753045781</guid>
+<description>
+"86498241","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","200","200","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#42836130</guid>
+<description>
+"86498242","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-10","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","WHEAT MILL EUNX EUR/MT","","EUR:MT","175.75","","","MT","MT","100","100","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:Softs:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-784244867</guid>
+<description>
+"86498243","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-20","","","CO","Agricultural","Commodity:Agricultural:Softs:Swap:Cash","Trade","COFFEE ARA BMF USD/BAG","","USD:MT","140.34","","","MT","MT","80","80","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1947919297</guid>
+<description>
+"86498244","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2019-03-15","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","41.17","","","MT","MT","20","20","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1584176533</guid>
+<description>
+"86498245","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","150","150","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1776780584</guid>
+<description>
+"86498246","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","35.5","","","MT","MT","1,700","1,700","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:Softs:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1497619757</guid>
+<description>
+"86498247","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-20","","","CO","Agricultural","Commodity:Agricultural:Softs:Swap:Cash","Trade","COFFEE ARA BMF USD/BAG","","USD:MT","141.4","","","MT","MT","55","55","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1466814214</guid>
+<description>
+"86498248","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.7","","","MT","MT","20","20","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#400100449</guid>
+<description>
+"86498249","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.7","","","MT","MT","220","220","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#531949386</guid>
+<description>
+"86498250","","NEW","2018-05-28T00:16:25","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","85","85","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1225869748</guid>
+<description>
+"86498251","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","355","355","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#2109070619</guid>
+<description>
+"86498252","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.7","","","MT","MT","100","100","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1348218921</guid>
+<description>
+"86498253","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","35.85","","","MT","MT","120","120","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1625042396</guid>
+<description>
+"86498254","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-11-14","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CANOLA ICE CAD/MT","","CAD:MT","522","","","MT","MT","10","10","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1799720717</guid>
+<description>
+"86498255","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-10-31","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","RAPESEED EUNX EUR/MT","","EUR:MT","365.5","","","MT","MT","100","100","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#252501771</guid>
+<description>
+"86498256","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","36.79","","","MT","MT","450","450","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1047120571</guid>
+<description>
+"86498257","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-12-10","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","WHEAT MILL EUNX EUR/MT","","EUR:MT","181.75","","","MT","MT","55","55","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1239681165</guid>
+<description>
+"86498258","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.7","","","MT","MT","390","390","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#949423005</guid>
+<description>
+"86498259","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-10-31","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","RAPESEED EUNX EUR/MT","","EUR:MT","356.5","","","MT","MT","400","400","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#588639264</guid>
+<description>
+"86498260","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","35.5","","","MT","MT","175","175","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#661274463</guid>
+<description>
+"86498261","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.2","","","MT","MT","1,600","1,600","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1476904119</guid>
+<description>
+"86498262","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2019-05-10","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","WHEAT MILL EUNX EUR/MT","","EUR:MT","183.75","","","MT","MT","25","25","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#888371179</guid>
+<description>
+"86498263","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","35.85","","","MT","MT","65","65","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:Softs:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1641202952</guid>
+<description>
+"86498264","","NEW","2018-05-28T00:16:26","U","UC","","N","N","OFF","2018-05-28","2018-09-20","","","CO","Agricultural","Commodity:Agricultural:Softs:Swap:Cash","Trade","COFFEE ARA BMF USD/BAG","","USD:MT","143.09","","","MT","MT","90","90","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#2109326170</guid>
+<description>
+"86498265","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","665","665","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1962167148</guid>
+<description>
+"86498266","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-10-31","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","RAPESEED EUNX EUR/MT","","EUR:MT","364.5","","","MT","MT","100","100","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-918808199</guid>
+<description>
+"86498267","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","33.29","","","MT","MT","40","40","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-658445076</guid>
+<description>
+"86498268","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2019-01-15","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","43.29","","","MT","MT","30","30","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1291527772</guid>
+<description>
+"86498269","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","32.2","","","MT","MT","1,400","1,400","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#988263684</guid>
+<description>
+"86498270","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2019-05-10","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","WHEAT MILL EUNX EUR/MT","","EUR:MT","184.25","","","MT","MT","10","10","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#-1178677446</guid>
+<description>
+"86498271","","NEW","2018-05-28T00:16:30","U","UC","","N","N","OFF","2018-05-28","2018-10-31","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","RAPESEED EUNX EUR/MT","","EUR:MT","363.5","","","MT","MT","50","50","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1082404561</guid>
+<description>
+"86498272","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2019-05-10","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","WHEAT MILL EUNX EUR/MT","","EUR:MT","184.25","","","MT","MT","5","5","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Commodity:Agricultural:GrainsOilSeeds:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 20:18:01 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#906813901</guid>
+<description>
+"86498273","","NEW","2018-05-28T00:16:31","U","UC","","N","N","OFF","2018-05-28","2018-09-17","","","CO","Agricultural","Commodity:Agricultural:GrainsOilSeeds:Swap:Cash","Trade","CORN BMF BRL/BAG","","BRL:MT","35","","","MT","MT","450","450","","","","","","","","","","","","","","","",""</description>
+</item>
+
+</channel>
+</rss>
+

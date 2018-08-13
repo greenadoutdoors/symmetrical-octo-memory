@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Commodoties Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Commodoties Data</description>
+<pubDate>Wed, 30 May 2018 19:09:46 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Commodity:Index:Swap:Cash</title>
+<pubDate>Wed, 30 May 2018 19:09:46 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#518961904</guid>
+<description>
+"86701543","","NEW","2018-05-30T21:09:32","U","PC","","Y","Y","OFF","2018-05-16","2018-06-29"," ACT/365.FIXED","USD","CO","Index","Commodity:Index:Swap:Cash","Termination","Composite Commodity Indices","","USD:Percentage","0","USD","4,864,469.09276","USD","","25,000,000+","","1T","","1T","","","","","","","","","","USD:Percentage","0.0008","",""</description>
+</item>
+
+</channel>
+</rss>
+

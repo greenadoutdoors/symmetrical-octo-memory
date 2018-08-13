@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Equities Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Equities Data</description>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#1479106940</guid>
+<description>
+"86485054","","NEW","2018-05-28T10:12:34","U","PC","N","N","N","OFF","2018-05-28","2019-02-07"," ACT/360","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Amendment","Bespoke Basket","","N/A","","","","USD","","250,000,000+","","Multiple","","Multiple","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#1111906170</guid>
+<description>
+"86485055","","NEW","2018-05-28T10:12:34","U","PC","N","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Termination","Bespoke Basket","","N/A","","","","","","","","","","","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-645624522</guid>
+<description>
+"86485057","","NEW","2018-05-28T10:12:34","U","PC","N","N","N","OFF","2018-05-28","2019-02-07"," ACT/360","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Amendment","Bespoke Basket","","N/A","","","","USD","","250,000,000+","","Multiple","","Multiple","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#1648587911</guid>
+<description>
+"86485059","","NEW","2018-05-28T03:58:00","U","PC","","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName","Trade","PCJE.NS","","INR","177.75319","","","USD","","660,000","250,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#1678467970</guid>
+<description>
+"86485060","","NEW","2018-05-28T03:48:52","U","PC","","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName","Trade","PCJE.NS","","INR","181.88504","","","USD","","670,000","250,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-1538647526</guid>
+<description>
+"86485061","","NEW","2018-05-28T10:12:35","U","PC","N","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Termination","Bespoke Basket","","N/A","","","","","","","","","","","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#2019822297</guid>
+<description>
+"86485062","","NEW","2018-05-28T10:12:35","U","PC","N","N","N","OFF","2018-05-28","2019-02-07"," ACT/360","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Amendment","Bespoke Basket","","N/A","","","","USD","","250,000,000+","","Multiple","","Multiple","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#734633421</guid>
+<description>
+"86485064","","NEW","2018-05-28T04:51:02","U","PC","","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName","Trade","PCJE.NS","","INR","179.68776","","","USD","","670,000","250,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#2041298222</guid>
+<description>
+"86485065","","NEW","2018-05-28T10:13:57","U","PC","","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:SingleName","Amendment","PCJE.NS","","INR","181.88504","","","USD","","670,000","250,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-59969203</guid>
+<description>
+"86485066","","NEW","2018-05-28T10:12:41","U","PC","N","N","N","OFF","2018-05-28","2019-02-07"," ACT/360","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Amendment","Bespoke Basket","","N/A","","","","USD","","250,000,000+","","Multiple","","Multiple","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+
+<item>
+<title>Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket</title>
+<pubDate>Mon, 28 May 2018 06:31:07 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-1884233351</guid>
+<description>
+"86485067","","NEW","2018-05-28T10:12:36","U","PC","N","N","N","OFF","2018-05-28","","","","EQ","","Equity:PortfolioSwap:PriceReturnBasicPerformance:Basket","Termination","Bespoke Basket","","N/A","","","","","","","","","","","","","","","","","","","","N/A","","N/A",""</description>
+</item>
+
+</channel>
+</rss>
+
