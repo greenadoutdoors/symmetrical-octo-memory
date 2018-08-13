@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Credits Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Credits Data</description>
+<pubDate>Tue, 29 May 2018 09:42:41 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Credit:Swaptions:CDX:CDXSwaption</title>
+<pubDate>Tue, 29 May 2018 09:42:41 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss#725835848</guid>
+<description>
+"86557705","86555083","CANCEL","2018-05-25T14:13:18","U","UC","N","Y","N","","2018-07-19","2023-06-20"," ACT/360","","CR","","Credit:Swaptions:CDX:CDXSwaption","Trade","CDX.NA.IG.30:2I65BYDP7","","BasisPoints","95","","","USD","","700,000","","3M","","","","","95","C-","EU","USD","238","","2018-07-18","","","",""</description>
+</item>
+
+</channel>
+</rss>
+

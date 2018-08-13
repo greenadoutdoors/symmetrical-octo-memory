@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Commodoties Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Commodoties Data</description>
+<pubDate>Mon, 28 May 2018 06:22:15 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Commodity:Metals:NonPrecious:Swap:Cash</title>
+<pubDate>Mon, 28 May 2018 06:22:15 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/COMMODITIES_RSS_FEED.rss#1259213138</guid>
+<description>
+"86483925","","NEW","2018-05-28T08:52:11","U","UC","","N","N","OFF","2018-06-01","2018-08-31","","","CO","Metals","Commodity:Metals:NonPrecious:Swap:Cash","Trade","COPPER-COMEX","","USD:LB","3.05","","","LB","LB","300,000","300,000","","","","","","","","","","","","","USD","0","",""</description>
+</item>
+
+</channel>
+</rss>
+

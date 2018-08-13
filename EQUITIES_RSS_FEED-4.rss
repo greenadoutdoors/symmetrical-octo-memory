@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Equities Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Equities Data</description>
+<pubDate>Mon, 28 May 2018 22:27:40 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Equity:Swap:ParameterReturnVariance:SingleIndex</title>
+<pubDate>Mon, 28 May 2018 22:27:40 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-1247185581</guid>
+<description>
+"86499531","86308394","CANCEL","2018-05-24T06:29:15","U","UC","","N","N","OFF","2018-05-24","2018-12-14","","","EQ","","Equity:Swap:ParameterReturnVariance:SingleIndex","Trade",".N225","","Level","380.6401","","","JPY","","11,000,000","280,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+
+<item>
+<title>Equity:Swap:ParameterReturnVariance:SingleIndex</title>
+<pubDate>Mon, 28 May 2018 22:27:40 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/EQUITIES_RSS_FEED.rss#-654296987</guid>
+<description>
+"86499532","86308394","CORRECT","2018-05-24T06:29:15","U","PC","","N","N","OFF","2018-05-24","2018-12-14","","","EQ","","Equity:Swap:ParameterReturnVariance:SingleIndex","Trade",".N225","","Level","380.6401","","","JPY","","11,000,000","280,000","","","","","","","","","","","","","","","",""</description>
+</item>
+
+</channel>
+</rss>
+

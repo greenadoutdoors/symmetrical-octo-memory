@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Credits Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Credits Data</description>
+<pubDate>Fri, 25 May 2018 17:05:35 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Credit:IndexTranche:CDX:StandardCDXTrancheHY</title>
+<pubDate>Fri, 25 May 2018 17:05:35 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss#-573462250</guid>
+<description>
+"86433667","","NEW","2018-05-24T17:14:40","U","UC","N","Y","N","OFF","2018-05-24","2021-12-20"," ACT/360","","CR","","Credit:IndexTranche:CDX:StandardCDXTrancheHY","Trade","CDX.NA.HY.27-V3:2I65BRPM6","","UpfrontPoints","114.53","","","USD","","120,000","","3M","","","","","","","","","","","","","","",""</description>
+</item>
+
+</channel>
+</rss>
+

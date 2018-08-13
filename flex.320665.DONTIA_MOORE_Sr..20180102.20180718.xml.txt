@@ -1,0 +1,8 @@
+<FlexQueryResponse queryName="DONTIA MOORE Sr." type="TCF">
+<FlexStatements count="1">
+<FlexStatement accountId="U2519271" fromDate="20180102" toDate="20180718" period="YearToDate" whenGenerated="20180719;191850">
+<TradeConfirms>
+</TradeConfirms>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>

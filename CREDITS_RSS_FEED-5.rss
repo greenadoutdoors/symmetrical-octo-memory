@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>DDR Real Time Credits Data</title>
+<link>https://rtdata.dtcc.com/gtr/dashboard.do</link>
+<description>DDR Real Time Credits Data</description>
+<pubDate>Thu, 31 May 2018 21:06:10 -0400</pubDate>
+<ttl>1</ttl><atom:link href="https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title>Credit:TotalReturnSwap</title>
+<pubDate>Thu, 31 May 2018 21:06:10 -0400</pubDate>
+<guid>
+https://kgc0418-tdw-data2-0.s3.amazonaws.com/slices/CREDITS_RSS_FEED.rss#134005578</guid>
+<description>
+"86847977","","NEW","2018-06-01T01:04:45","U","UC","N","N","N","OFF","2018-06-01","2021-03-03"," 30/360","","CR","","Credit:TotalReturnSwap","Partialtermination","Bespoke basket:97541J9F9","","","","","","LKR","","850,000,000","","1T","","","","","","","","","","","","","","",""</description>
+</item>
+
+</channel>
+</rss>
+
